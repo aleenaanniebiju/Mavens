@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "///div[@id=\"nav-cart-count-container\"]//span[@id=\"nav-cart-count\"]"
+}
